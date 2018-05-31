@@ -1,0 +1,21 @@
+{
+
+  "name": "syncfusion-dashboard-javascript",
+
+  "version": "2.3.0.32",
+
+  "description": "Bower package of Syncfusion.Dashboard.JavaScript.",
+	
+  "authors": [
+    "Syncfusion Inc"
+  ],
+  	
+  "homepage": "https://github.com/syncfusion/dashboard-javascript-components#readme",
+
+  "dependencies": {
+  
+		"jquery": "~1.10.2"
+
+  }
+
+}
