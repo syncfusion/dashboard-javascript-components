@@ -5,10 +5,6 @@ Holds the JavaScript components of Dashboard Platform like Dashboard Viewer.
 
 Refer the Syncfusion Dashboard Viewer bower packages documentation in [https://help.syncfusion.com/dashboard-platform/dashboard-sdk/installation-and-deployment#configuring-syncfusion-dashboard-viewer-javascript-bower-packages](https://help.syncfusion.com/dashboard-platform/dashboard-sdk/installation-and-deployment#configuring-syncfusion-dashboard-viewer-javascript-bower-packages).
 
-## Configuring Syncfusion Dashboard Plaform NPM Packages
-
-Refer the Syncfusion Dashboard Platform npm packages documentation in [https://help.syncfusion.com/dashboard-platform/dashboard-sdk/installation-and-deployment#configuring-syncfusion-dashboard-platform-npm-packages](https://help.syncfusion.com/dashboard-platform/dashboard-sdk/installation-and-deployment#configuring-syncfusion-dashboard-viewer-javascript-bower-packages).
-
 ## Documentation
 
 For complete Syncfusion JavaScript documentation, please visit [https://help.syncfusion.com/dashboard-platform/overview](https://help.syncfusion.com/dashboard-platform/overview).
