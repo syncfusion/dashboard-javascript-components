@@ -1,0 +1,61 @@
+{
+
+  "name": "syncfusion-dashboard-javascript",
+
+  "version": "3.1.0.113",
+
+  "description": "Npm package of Syncfusion.Dashboard.JavaScript.",
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "git+https://github.com/syncfusion/dashboard-javascript-components.git"
+
+  },
+
+  "keywords": [
+
+    "syncfusion",
+
+    "dashboard",
+  ],
+
+  "author": "Syncfusion Inc",
+
+  "license": "SEE LICENSE IN README.md",
+
+  "dependencies": {
+	
+    "jquery": "*",
+
+    "jsrender": "*"
+
+  },
+
+  "bugs": {
+
+    "url": "https://github.com/syncfusion/dashboard-javascript-components/issues"
+
+  },
+
+  "homepage": "https://github.com/syncfusion/dashboard-javascript-components#readme",
+  
+  "files": [
+        "Scripts/",
+        "Content/"
+    ],
+    "jspm": {
+        "main": false,
+        "format": "amd",
+        "registry" : "npm",
+        "files": [
+            "Scripts",
+            "Content"
+        ],
+        "dependencies": {
+            "jquery": "*",
+            "jsrender": "*",
+        }
+    }
+}
